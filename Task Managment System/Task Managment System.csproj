@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Task_Managment_System</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Tasks\" />
+    <None Remove="Notifications\" />
+    <None Remove="Sorting\" />
+    <None Remove="Commands\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Tasks\" />
+    <Folder Include="Notifications\" />
+    <Folder Include="Sorting\" />
+    <Folder Include="Commands\" />
+  </ItemGroup>
+</Project>

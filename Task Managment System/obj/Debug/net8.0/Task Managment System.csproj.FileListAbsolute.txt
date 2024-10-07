@@ -1,0 +1,14 @@
+/Users/artemo/Projects/Task Managment System/Task Managment System/bin/Debug/net8.0/Task Managment System
+/Users/artemo/Projects/Task Managment System/Task Managment System/bin/Debug/net8.0/Task Managment System.deps.json
+/Users/artemo/Projects/Task Managment System/Task Managment System/bin/Debug/net8.0/Task Managment System.runtimeconfig.json
+/Users/artemo/Projects/Task Managment System/Task Managment System/bin/Debug/net8.0/Task Managment System.dll
+/Users/artemo/Projects/Task Managment System/Task Managment System/bin/Debug/net8.0/Task Managment System.pdb
+/Users/artemo/Projects/Task Managment System/Task Managment System/obj/Debug/net8.0/Task Managment System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemo/Projects/Task Managment System/Task Managment System/obj/Debug/net8.0/Task Managment System.AssemblyInfoInputs.cache
+/Users/artemo/Projects/Task Managment System/Task Managment System/obj/Debug/net8.0/Task Managment System.AssemblyInfo.cs
+/Users/artemo/Projects/Task Managment System/Task Managment System/obj/Debug/net8.0/Task Managment System.csproj.CoreCompileInputs.cache
+/Users/artemo/Projects/Task Managment System/Task Managment System/obj/Debug/net8.0/Task Managment System.dll
+/Users/artemo/Projects/Task Managment System/Task Managment System/obj/Debug/net8.0/refint/Task Managment System.dll
+/Users/artemo/Projects/Task Managment System/Task Managment System/obj/Debug/net8.0/Task Managment System.pdb
+/Users/artemo/Projects/Task Managment System/Task Managment System/obj/Debug/net8.0/Task Managment System.genruntimeconfig.cache
+/Users/artemo/Projects/Task Managment System/Task Managment System/obj/Debug/net8.0/ref/Task Managment System.dll

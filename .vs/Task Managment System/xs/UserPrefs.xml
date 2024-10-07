@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{3DE20DC8-9B69-47F7-BF04-FDBAB4A3A8A9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task_220Managment_220System PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task Managment System/Program.cs">
+    <Files>
+      <File FileName="Task Managment System/Program.cs" Line="87" Column="10" />
+      <File FileName="Task Managment System/Logger.cs" Line="31" Column="43" />
+      <File FileName="Task Managment System/Tasks/Task.cs" Line="13" Column="1" />
+      <File FileName="Task Managment System/Tasks/WorkTask.cs" Line="4" Column="38" />
+      <File FileName="Task Managment System/Tasks/PersonalTask.cs" Line="4" Column="42" />
+      <File FileName="Task Managment System/Tasks/TaskFactory.cs" Line="20" Column="10" />
+      <File FileName="Task Managment System/Notifications/IObserver.cs" Line="6" Column="31" />
+      <File FileName="Task Managment System/Notifications/User.cs" Line="16" Column="1" />
+      <File FileName="Task Managment System/Notifications/TaskManager.cs" Line="24" Column="30" />
+      <File FileName="Task Managment System/Sorting/ISortStrategy.cs" Line="7" Column="3" />
+      <File FileName="Task Managment System/Sorting/SortByDeadLine.cs" Line="11" Column="60" />
+      <File FileName="Task Managment System/Sorting/SortByTitle.cs" Line="11" Column="47" />
+      <File FileName="Task Managment System/Sorting/TaskSorter.cs" Line="17" Column="30" />
+      <File FileName="Task Managment System/Commands/EmptyEnumeration.cs" Line="11" Column="1" />
+      <File FileName="Task Managment System/Commands/CompleteTaskCommand.cs" Line="26" Column="4" />
+      <File FileName="Task Managment System/Commands/CommandManager.cs" Line="25" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task Managment System" expanded="True">
+            <Node name="Task Managment System" expanded="True">
+              <Node name="Commands" expanded="True" />
+              <Node name="Notifications" expanded="True" />
+              <Node name="Sorting" expanded="True" />
+              <Node name="Tasks" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
